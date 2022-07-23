@@ -1,0 +1,10 @@
+@media only screen and (min-width: 1798px) {
+    .about-plexxie .wr-desc {
+        font-size: 20px !important;
+        line-height: 30px !important
+    }
+    .service-slider .desc {
+        font-size: 21px !important;
+        line-height: 33px !important;
+    }
+}
